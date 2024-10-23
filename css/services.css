@@ -673,7 +673,7 @@ body {
     .about-image-3, .about-text-3 {
         width: 100%;
         padding-left: 0;
-        text-align: center;
+        text-align: justify;
     }
 }
 
