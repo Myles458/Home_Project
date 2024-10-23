@@ -1125,7 +1125,7 @@ footer {
     }
 
     .about-text-1, .about-text-2, .about-text-3 {
-        text-align: center;
+        text-align: justify;
         padding-left: 0;
     }
 
